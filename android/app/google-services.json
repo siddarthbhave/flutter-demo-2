@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640609883745",
+    "firebase_url": "https://coffee-gang.firebaseio.com",
+    "project_id": "coffee-gang",
+    "storage_bucket": "coffee-gang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640609883745:android:7411e1c589164b52dbfc20",
+        "android_client_info": {
+          "package_name": "com.sidd.coffee_gang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640609883745-e4vgofta1ij4r85p8frq564qffk4fkfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0F99v0wWsLOI50AlXuAtdn8fBpVuQDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640609883745-e4vgofta1ij4r85p8frq564qffk4fkfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
